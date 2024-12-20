@@ -3,3 +3,8 @@ button{
     color: red;
     width: 100px;
 }
+input{
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+}
